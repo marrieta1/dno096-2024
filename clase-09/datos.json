@@ -1,92 +1,81 @@
 [
     {
-        "nombre": "Indumentaria Bauhaus",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "nombre": "Logo XFood",
         "fecha": "2023",
-        "signo": "vestuario",
-        "foto": "https://picsum.photos/id/447/300/300",
-        "fotos":"https://picsum.photos/id/447/900/600",
-        "github": "https://github.com/profesorfaco"
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/8e2cf9d6-c204-4d3d-85bc-83d25d0c60ba",
+        "github": "https://github.com/marrieta1"
     },
     {
-        "nombre": "Piso de carpintero",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "nombre": "Kitu",
+        "descripcion":"",
         "fecha": "2022",
-        "signo": "industrial",
-        "foto": "https://picsum.photos/id/137/300/300",
-        "fotos": "https://picsum.photos/id/137/900/600",
-        "github": "https://github.com/profesorfaco"
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/87d06ddd-9f39-4139-9a15-95500a05911e",
+        "github": "https://github.com/marrieta1"
     },
     {
-        "nombre": "Infografía informativa",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
-        "fecha": "2021",
-        "signo": "visual",
-        "foto": "https://picsum.photos/id/442/300/300",
-        "fotos": "https://picsum.photos/id/442/900/600",
-        "github": "https://github.com/profesorfaco"
-    },
-    {
-        "nombre": "Juguete de chimpancé",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "nombre": "Minutare",
+        "descripcion":"",
         "fecha": "2023",
         "signo": "industrial",
-        "foto": "https://picsum.photos/id/96/300/300",
-        "fotos": "https://picsum.photos/id/96/900/600",
-        "github": "https://github.com/profesorfaco"
+        "foto": "https://github.com/user-attachments/assets/45b3dbe9-59a0-40b0-a96f-7b492852cef9",
+        "github": "https://github.com/marrieta1"
     },
     {
-        "nombre": "Lámpara luminosa",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
-        "fecha": "2021",
-        "signo": "industrial",
-        "foto": "https://picsum.photos/id/158/300/300",
-        "fotos": "https://picsum.photos/id/158/900/600",
-        "github": "https://github.com/profesorfaco"
+        "nombre": "Guitarra",
+        "descripcion":"",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/6d6e61c1-68b7-4211-9b9c-338db066c918",
+        "github": "https://github.com/marrieta1"
     },
     {
-        "nombre": "Póster de película",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "nombre": "Daff",
+        "descripcion":"",
+        "fecha": "2023",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/225b4edf-4e18-4e26-864d-d73680cae536",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Poleras SRC",
+        "descripcion":"",
         "fecha": "2024",
-        "signo": "visual",
-        "foto": "https://picsum.photos/id/180/300/300",
-        "fotos": "https://picsum.photos/id/180/900/600",
-        "github": "https://github.com/profesorfaco"
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/dd0ce653-8c11-4385-ba62-7cce38521d40",
+        "github": "https://github.com/marrieta1"
     },
     {
-        "nombre": "Skate muy cool",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
-        "fecha": "2022",
-        "signo": "industrial",
-        "foto": "https://picsum.photos/id/157/300/300",
-        "fotos": "https://picsum.photos/id/157/900/600",
-        "github": "https://github.com/profesorfaco"
-    },
-    {
-        "nombre": "Objeto didáctico",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
-        "fecha": "2021",
-        "signo": "industrial",
-        "foto": "https://picsum.photos/id/252/300/300",
-        "fotos": "https://picsum.photos/id/252/900/600",
-        "github": "https://github.com/profesorfaco"
-    },
-    {
-        "nombre": "Cosito para un deporte",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
-        "fecha": "2022",
-        "signo": "industrial",
-        "foto": "https://picsum.photos/id/357/300/300",
-        "fotos": "https://picsum.photos/id/357/900/600",
-        "github": "https://github.com/profesorfaco"
-    },
-    {
-        "nombre": "Libro infantil",
-        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "nombre": "Logo Breezy",
+        "descripcion":"",
         "fecha": "2024",
-        "signo": "visual",
-        "foto": "https://picsum.photos/id/146/300/300",
-        "fotos": "https://picsum.photos/id/146/900/600",
-        "github": "https://github.com/profesorfaco"
-    }
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/db616ba8-25e8-44d5-8597-ab5e72e9c984",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Auto CADCAM",
+        "descripcion":"",
+        "fecha": "2024",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/414d3f2f-19bd-4299-adb7-b27c406a265b",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Monedero",
+        "descripcion":"",
+        "fecha": "2024",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/5667e2fe-03dd-4001-807a-ffe2b377b029",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Isotipos",
+        "descripcion":"",
+        "fecha": "2024",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/5f3c165f-4f91-4eac-9f31-f3acd3a113cb",
+        "github": "https://github.com/marrieta1"
+    },
 ]
